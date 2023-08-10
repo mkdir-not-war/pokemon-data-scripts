@@ -14,14 +14,14 @@ Pokemon = SENTRET,3
 Pokemon = KRABBY,3
 #-------------------------------
 [YOUNGSTER,Baxter,1]
-LoseText = Still a ways to go huh?
+LoseText = Still a ways to go, huh?
 Pokemon = KRABBY,3
 Pokemon = VENONAT,3
 Pokemon = SENTRET,4
     Item = ORANBERRY
 #-------------------------------
 [YOUNGSTER,Baxter,2]
-LoseText = We’ll get you next time!
+LoseText = Weâ€™ll get you next time!
 Pokemon = KRABBY,15
 Pokemon = VENONAT,15
 Pokemon = FURRET,15
@@ -41,7 +41,7 @@ Pokemon = VENONAT,4
 Pokemon = PINECO,4
 #-------------------------------
 [YOUNGSTER,Joey]
-LoseText = You’re decent.
+LoseText = Youâ€™re decent.
 Pokemon = AZURILL,5
 Pokemon = SENTRET,5
 #-------------------------------
@@ -57,7 +57,7 @@ Pokemon = SEEDOT,5
 Pokemon = WINGULL,5
 #-------------------------------
 [PICNICKER,Olivia,1]
-LoseText = Dang! If only my Pokémon would evolve.
+LoseText = Dang! If only my PokÃ©mon would evolve.
 Pokemon = SEEDOT,10
 Pokemon = WINGULL,10
 #-------------------------------
@@ -69,14 +69,15 @@ Pokemon = NUZLEAF,20
 Pokemon = WINGULL,22
 #-------------------------------
 [PICNICKER,Olivia,3]
-LoseText = I have no more excuses. But we’ll win next time!
+LoseText = I have no more excuses. But weâ€™ll win next time!
 SkillLevel = 80
 Pokemon = SHIFTRY,38
     Moves = GIGADRAIN,FAKEOUT,TORMENT,SUCKERPUNCH
 Pokemon = PELIPPER,40
+    Item = IRONBALL
 #-------------------------------
 [BUGCATCHER,Max]
-LoseText = Wow! I’ve never seen those Pokémon before!
+LoseText = Wow! Iâ€™ve never seen those PokÃ©mon before!
 Pokemon = DWEBBLE,5
 Pokemon = SURSKIT,5
 #-------------------------------
@@ -98,7 +99,7 @@ Pokemon = KRABBY,15
 Pokemon = VENONAT,15
 #-------------------------------
 [COOLTRAINER_F,Anna]
-LoseText = Not deep enough huh?
+LoseText = Not deep enough, huh?
 Pokemon = FLETCHLING,15
 Pokemon = SHROOMISH,15
 #-------------------------------
@@ -118,7 +119,7 @@ Pokemon = WOOPER,7
 Pokemon = FLETCHLING,8
 #-------------------------------
 [YOUNGSTER,Toby]
-LoseText = Not too bad boomer.
+LoseText = Not too bad, boomer.
 Pokemon = PICHU,9
     Item = ORANBERRY
 Pokemon = SEEDOT,8
@@ -136,7 +137,7 @@ Pokemon = VENONAT,8
 Pokemon = YANMA,9
 #-------------------------------
 [CAMPER,Sterling,1]
-LoseText = Man I’m thirsty.
+LoseText = Man, Iâ€™m thirsty.
 Pokemon = SURSKIT,8
     Moves = RAINDANCE,WATERGUN,QUICKATTACK,SWEETSCENT
     AbilityIndex = 0
@@ -148,7 +149,7 @@ Pokemon = SURSKIT,9
     Ball = NETBALL
 #-------------------------------
 [BEAUTY,Josephine,1]
-LoseText = Krisa will beat you easy!
+LoseText = Krisa will beat you, easy!
 Pokemon = YANMA,8
     Ball = NETBALL
 Pokemon = PINECO,9
@@ -213,24 +214,24 @@ Pokemon = KRABBY,9
 Pokemon = ABRA,9
 #-------------------------------
 [SCIENTIST,Paul]
-LoseText = Haha awesome!
+LoseText = Haha, awesome!
 Pokemon = WOOPER,9
 Pokemon = WOOPER,10
 Pokemon = PINECO,10
 #-------------------------------
 [SCIENTIST,Victor]
-LoseText = You’re much too strong to be a normal child.
+LoseText = Youâ€™re much too strong to be a normal child.
 Pokemon = SEEDOT,12
 Pokemon = ABRA,12
 #-------------------------------
 [SCIENTIST,Harrison]
-LoseText = Not bad newbie.
+LoseText = Not bad, newbie.
 Pokemon = ABRA,12
 Pokemon = SURSKIT,11
 Pokemon = SHROOMISH,11
 #-------------------------------
 [ENGINEER,Jerry]
-LoseText = Gah! I’m starved!
+LoseText = Gah! Iâ€™m starved!
 Pokemon = MAKUHITA,13
 Pokemon = VENONAT,12
 #-------------------------------
@@ -242,18 +243,18 @@ Pokemon = HOPPIP,13
 Pokemon = MARILL,14
 #-------------------------------
 [YOUNGSTER,Timothy]
-LoseText = Your Pokémon’s strengths are impressive!
+LoseText = Your PokÃ©monâ€™s strengths are impressive!
 Pokemon = MAREEP,10
 Pokemon = SHROOMISH,10
 Pokemon = SENTRET,10
 #-------------------------------
 [CAMPER,Clarence]
-LoseText = Ugh washed away!
+LoseText = Ugh, washed away!
 Pokemon = KRABBY,11
 Pokemon = AZURILL,11
 #-------------------------------
 [CAMPER,Clarence,1]
-LoseText = Washed away again huh?
+LoseText = Washed away again, huh?
 Pokemon = KRABBY,15
 Pokemon = MARILL,15
 Pokemon = CARVANHA,15
@@ -291,13 +292,13 @@ Pokemon = CARVANHA,10
 Pokemon = SHELLDER,12
 #-------------------------------
 [BUGCATCHER,Lester]
-LoseText = We weren’t up to snuff.
+LoseText = We werenâ€™t up to snuff.
 Pokemon = PINECO,10
 Pokemon = VENONAT,12
 Pokemon = HOPPIP,12
 #-------------------------------
 [CAMPER,Craig]
-LoseText = Even in defeat\nwe are at peace.
+LoseText = Even in defeat,\nwe are at peace.
 Pokemon = DWEBBLE,13
 Pokemon = MAREEP,13
 Pokemon = SENTRET,14
@@ -309,7 +310,7 @@ Pokemon = PINECO,13
 Pokemon = SURSKIT,14
 #-------------------------------
 [AROMALADY,Hannah]
-LoseText = We’re not ready.
+LoseText = Weâ€™re not ready.
 Pokemon = SEEDOT,13
 Pokemon = NUZLEAF,14
 Pokemon = WINGULL,14
@@ -317,19 +318,19 @@ Pokemon = HOPPIP,13
 Pokemon = HOPPIP,13
 #-------------------------------
 [PICNICKER,Erin]
-LoseText = I’m glad you’re having an easier time going this way
+LoseText = Iâ€™m glad youâ€™re having an easier time going this way
 Pokemon = SENTRET,13
 Pokemon = FURRET,15
 #-------------------------------
 [HIKER,Garrett]
-LoseText = You’re more than ready for the trek!
+LoseText = Youâ€™re more than ready for the trek!
 Pokemon = VENONAT,15
 Pokemon = MAKUHITA,14
 Pokemon = SNUBBULL,14
 Pokemon = MAREEP,15
 #-------------------------------
 [YOUNGSTER,Elijah]
-LoseText = My Pokémon!
+LoseText = My PokÃ©mon!
 Pokemon = MARILL,15
 Pokemon = FURRET,15
 Pokemon = FLETCHLING,15
@@ -342,12 +343,12 @@ Pokemon = HOPPIP,12
 Pokemon = FLETCHLING,12
 #-------------------------------
 [POKEMANIAC,Lee]
-LoseText = Very cool Pokémon!
+LoseText = Very cool PokÃ©mon!
 Pokemon = PICHU,12
 Pokemon = PIKACHU,12
 #-------------------------------
 [RIVAL_Ronald,Ronald,1]
-LoseText = Wow you’re taking this way too seriously.
+LoseText = Wow, youâ€™re taking this way too seriously.
 Pokemon = NUZLEAF,28
     IV = 20,20,20,20,20,20
 Pokemon = FURRET,28
@@ -360,24 +361,24 @@ Pokemon = GYARADOS,28
     IV = 20,20,20,20,20,20
 #-------------------------------
 [PICNICKER,Kate]
-LoseText = Oh no…
+LoseText = Oh no... 
 Pokemon = MAREEP,15
 Pokemon = MAREEP,15
 Pokemon = HOPPIP,15
 #-------------------------------
 [BUGCATCHER,Perry]
-LoseText = Mushrooms couldn’t help us.
+LoseText = Mushrooms couldnâ€™t help us.
 Pokemon = DWEBBLE,15
 Pokemon = DWEBBLE,15
 Pokemon = SHROOMISH,15
 #-------------------------------
 [RUINMANIAC,Anthony]
-LoseText = Did you find a mystery?\nIs that why you’re so strong?
+LoseText = Did you find a mystery?\nIs that why youâ€™re so strong?
 Pokemon = MARILL,15
 Pokemon = FLETCHLING,15
 #-------------------------------
 [HIKER,Richard]
-LoseText = Maybe we’re not so mighty.
+LoseText = Maybe weâ€™re not so mighty.
 Pokemon = MAKUHITA,14
 Pokemon = DWEBBLE,15
 Pokemon = ARON,15
@@ -388,43 +389,43 @@ Pokemon = SNUBBULL,15
 Pokemon = SNUBBULL,15
 #-------------------------------
 [YOUNGSTER,Willis]
-LoseText = Ok maybe I can’t stop you.
+LoseText = Ok, maybe I canâ€™t stop you.
 Pokemon = NUZLEAF,15
 Pokemon = VENONAT,15
 Pokemon = VENONAT,16
 Pokemon = MAKUHITA,16
 #-------------------------------
 [BUGCATCHER,Kenneth]
-LoseText = I’ll allow you to stick around I guess.
+LoseText = Iâ€™ll allow you to stick around, I guess.
 Pokemon = VENONAT,14
 Pokemon = SURSKIT,14
 #-------------------------------
 [PICNICKER,Brianna]
-LoseText = Deep breaths Brianna. Deep breaths.
+LoseText = Deep breaths, Brianna. Deep breaths.
 Pokemon = MAREEP,14
 Pokemon = MARILL,15
 Pokemon = WOOPER,15
 #-------------------------------
 [HIKER,Earl]
-LoseText = Hee-hoo... hee-hoo…
+LoseText = Hee-hoo... hee-hoo... 
 Pokemon = FLETCHLING,15
 Pokemon = WOOPER,15
 Pokemon = SNUBBULL,15
 #-------------------------------
 [BLACKBELT,Warren]
-LoseText = Enough battling back to cardio!
+LoseText = Enough battling, back to cardio!
 Pokemon = MAKUHITA,15
 Pokemon = NUZLEAF,16
 #-------------------------------
 [RUINMANIAC,Leo]
-LoseText = Sorry I think the smell was me.
+LoseText = Sorry, I think the smell was me.
 Pokemon = HOPPIP,16
 Pokemon = DIGLETT,15
 Pokemon = SURSKIT,16
 Pokemon = DIGLETT,16
 #-------------------------------
 [CAMPER,Joe]
-LoseText = Wow! Cool Pokémon!
+LoseText = Wow! Cool PokÃ©mon!
 Pokemon = ZUBAT,16
 Pokemon = KRABBY,16
 #-------------------------------
@@ -434,7 +435,7 @@ Pokemon = PHANPY,12
 Pokemon = MAKUHITA,12
 #-------------------------------
 [HIKER,Jim]
-LoseText = Haha very nice!
+LoseText = Haha, very nice!
 Pokemon = WOOPER,12
 Pokemon = PHANPY,13
 Pokemon = WOOPER,13

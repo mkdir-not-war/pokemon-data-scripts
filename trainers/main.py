@@ -19,11 +19,18 @@ def load_data():
 		spline = line.split(',')
 		spline[-1] = spline[-1].strip('\n')
 		data_line = []
+		betweenquotes = False
 		for col in spline:
 			col = col.replace('\\\\', '\\')
-			if col != '' and col[-1] == '"':
-				data_line[-1] += col
+			if col != '' and col[0] == '"':
+				betweenquotes = True
+				data_line.append(col.strip('"'))
+			elif col != '' and col[-1] == '"':
+				betweenquotes = False
+				data_line[-1] += ',' + col
 				data_line[-1] = data_line[-1].strip('"')
+			elif betweenquotes:
+				data_line[-1] += ',' + col
 			else:
 				data_line.append(col)
 		
@@ -68,7 +75,7 @@ def load_data():
 def export_data(data_dict):
 	BATTLE_DELIM = '#-------------------------------\n'
 
-	fin = open(FILENAME_OUT, mode='w')
+	fin = open(FILENAME_OUT, mode='w', encoding='utf-8')
 
 	for name in data_dict:
 		for battle_no in data_dict[name]:
