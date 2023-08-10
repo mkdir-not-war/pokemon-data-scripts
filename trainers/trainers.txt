@@ -1,0 +1,464 @@
+#-------------------------------
+[PROF_Jati,Jati]
+LoseText = Impressive for two new partners!
+Pokemon = DWEBBLE,2
+    Moves = FURYCUTTER
+    AbilityIndex = 2
+    IV = 0,0,0,0,0,0
+Pokemon = SENTRET,2
+    IV = 0,0,0,0,0,0
+#-------------------------------
+[YOUNGSTER,Baxter]
+LoseText = That was fun!
+Pokemon = SENTRET,3
+Pokemon = KRABBY,3
+#-------------------------------
+[YOUNGSTER,Baxter,1]
+LoseText = Still a ways to go huh?
+Pokemon = KRABBY,3
+Pokemon = VENONAT,3
+Pokemon = SENTRET,4
+    Item = ORANBERRY
+#-------------------------------
+[YOUNGSTER,Baxter,2]
+LoseText = We’ll get you next time!
+Pokemon = KRABBY,15
+Pokemon = VENONAT,15
+Pokemon = FURRET,15
+    Item = SITRUSBERRY
+#-------------------------------
+[PICNICKER,Sabrina]
+Items = POTION
+LoseText = Dang it! I needed more berries!
+Pokemon = FLETCHLING,4
+Pokemon = FLETCHLING,4
+    Item = ORANBERRY
+#-------------------------------
+[BUGCATCHER,Stuart]
+LoseText = Wow! You should challenge the Merra City Gym.
+Pokemon = SURSKIT,4
+Pokemon = VENONAT,4
+Pokemon = PINECO,4
+#-------------------------------
+[YOUNGSTER,Joey]
+LoseText = You’re decent.
+Pokemon = AZURILL,5
+Pokemon = SENTRET,5
+#-------------------------------
+[LASS,Hazel]
+LoseText = I'm gonna tell my big brother!
+Pokemon = HOPPIP,5
+Pokemon = HOPPIP,5
+Pokemon = FLETCHLING,5
+#-------------------------------
+[PICNICKER,Olivia]
+LoseText = I'm actually looking back here for a Leaf Stone.
+Pokemon = SEEDOT,5
+Pokemon = WINGULL,5
+#-------------------------------
+[PICNICKER,Olivia,1]
+LoseText = Dang! If only my Pokémon would evolve.
+Pokemon = SEEDOT,10
+Pokemon = WINGULL,10
+#-------------------------------
+[PICNICKER,Olivia,2]
+LoseText = Shoot! If only I had a Leaf Stone.
+SkillLevel = 60
+Pokemon = NUZLEAF,20
+    Moves = GIGADRAIN,FAKEOUT,TORMENT,PAYBACK
+Pokemon = WINGULL,22
+#-------------------------------
+[PICNICKER,Olivia,3]
+LoseText = I have no more excuses. But we’ll win next time!
+SkillLevel = 80
+Pokemon = SHIFTRY,38
+    Moves = GIGADRAIN,FAKEOUT,TORMENT,SUCKERPUNCH
+Pokemon = PELIPPER,40
+#-------------------------------
+[BUGCATCHER,Max]
+LoseText = Wow! I’ve never seen those Pokémon before!
+Pokemon = DWEBBLE,5
+Pokemon = SURSKIT,5
+#-------------------------------
+[BUGCATCHER,Max,1]
+LoseText = Have you beaten the Merra City Gym yet?
+Pokemon = DWEBBLE,10
+Pokemon = SURSKIT,10
+#-------------------------------
+[BUGCATCHER,Max,2]
+LoseText = How many badges do you have now?
+SkillLevel = 70
+Pokemon = DWEBBLE,20
+Pokemon = MASQUERAIN,22
+    Moves = QUIVERDANCE,BUGBUZZ,BUBBLEBEAM,MIST
+#-------------------------------
+[COOLTRAINER_M,Don]
+LoseText = Our love will overcome this!
+Pokemon = KRABBY,15
+Pokemon = VENONAT,15
+#-------------------------------
+[COOLTRAINER_F,Anna]
+LoseText = Not deep enough huh?
+Pokemon = FLETCHLING,15
+Pokemon = SHROOMISH,15
+#-------------------------------
+[BUGCATCHER,Harold]
+LoseText = Today is just not my day.
+Pokemon = PINECO,5
+Pokemon = HOPPIP,6
+#-------------------------------
+[PICNICKER,Amelia]
+LoseText = Wow! Are you a graduate?
+Pokemon = SENTRET,7
+Pokemon = PHANPY,8
+#-------------------------------
+[CAMPER,Will]
+LoseText = You might even be stronger than the boss!
+Pokemon = WOOPER,7
+Pokemon = FLETCHLING,8
+#-------------------------------
+[YOUNGSTER,Toby]
+LoseText = Not too bad boomer.
+Pokemon = PICHU,9
+    Item = ORANBERRY
+Pokemon = SEEDOT,8
+#-------------------------------
+[YOUNGSTER,Phil,1]
+LoseText = My Pineco!
+Pokemon = PINECO,8
+Pokemon = PINECO,9
+    Ball = NETBALL
+#-------------------------------
+[BUGCATCHER,Derek,1]
+LoseText = Not again!
+Pokemon = VENONAT,8
+    Ball = NETBALL
+Pokemon = YANMA,9
+#-------------------------------
+[CAMPER,Sterling,1]
+LoseText = Man I’m thirsty.
+Pokemon = SURSKIT,8
+    Moves = RAINDANCE,WATERGUN,QUICKATTACK,SWEETSCENT
+    AbilityIndex = 0
+Pokemon = DWEBBLE,9
+    Moves = FURYCUTTER,WITHDRAW,SMACKDOWN,CUT
+Pokemon = SURSKIT,9
+    Moves = RAINDANCE,WATERGUN,BUGBITE,QUICKATTACK
+    AbilityIndex = 1
+    Ball = NETBALL
+#-------------------------------
+[BEAUTY,Josephine,1]
+LoseText = Krisa will beat you easy!
+Pokemon = YANMA,8
+    Ball = NETBALL
+Pokemon = PINECO,9
+Pokemon = DWEBBLE,9
+    Moves = FURYCUTTER,WITHDRAW,SMACKDOWN,CUT
+#-------------------------------
+[AROMALADY,Laura,1]
+LoseText = Krisa is just ahead.
+Pokemon = PINECO,10
+Pokemon = PINECO,10
+    Ball = NETBALL
+Pokemon = DWEBBLE,11
+    Moves = FURYCUTTER,WITHDRAW,SMACKDOWN,CUT
+    Ball = NETBALL
+#-------------------------------
+[BUGCATCHER,Morton,1]
+LoseText = You pass the Morton test!
+Pokemon = PINECO,10
+    Ball = NETBALL
+Pokemon = PINECO,10
+Pokemon = VENONAT,11
+#-------------------------------
+[LEADER_Krisa,Krisa,1]
+Items = POTION
+LoseText = Dang! Congratulations!
+SkillLevel = 100
+Pokemon = PINECO,11
+    IV = 20,20,20,20,20,20
+Pokemon = VENONAT,11
+    Moves = DISABLE,UTURN,SUPERSONIC,CONFUSION
+    AbilityIndex = 0
+    IV = 20,20,20,20,20,20
+Pokemon = MASQUERAIN,12
+    Moves = QUIVERDANCE,BATONPASS,AQUAJET,RAINDANCE
+    Ball = NETBALL
+    IV = 20,20,20,20,20,20
+Pokemon = YANMEGA,14
+    Moves = ANCIENTPOWER,UTURN,AIRSLASH,BUGBUZZ
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Ball = NETBALL
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[WAITER,Sylvester]
+LoseText = Woah! Impressive!
+Pokemon = VENONAT,8
+Pokemon = WOOPER,9
+#-------------------------------
+[WAITRESS,Camille]
+LoseText = I almost spilled the drinks!
+Pokemon = WINGULL,8
+Pokemon = FLETCHLING,9
+#-------------------------------
+[WAITRESS,Judy]
+LoseText = That woke me right up!
+Pokemon = WOOPER,8
+Pokemon = SURSKIT,9
+#-------------------------------
+[SUPERNERD,Francis]
+LoseText = Argh!
+Pokemon = KRABBY,9
+Pokemon = ABRA,9
+#-------------------------------
+[SCIENTIST,Paul]
+LoseText = Haha awesome!
+Pokemon = WOOPER,9
+Pokemon = WOOPER,10
+Pokemon = PINECO,10
+#-------------------------------
+[SCIENTIST,Victor]
+LoseText = You’re much too strong to be a normal child.
+Pokemon = SEEDOT,12
+Pokemon = ABRA,12
+#-------------------------------
+[SCIENTIST,Harrison]
+LoseText = Not bad newbie.
+Pokemon = ABRA,12
+Pokemon = SURSKIT,11
+Pokemon = SHROOMISH,11
+#-------------------------------
+[ENGINEER,Jerry]
+LoseText = Gah! I’m starved!
+Pokemon = MAKUHITA,13
+Pokemon = VENONAT,12
+#-------------------------------
+[ENGINEER,Chris]
+LoseText = What strength!
+Pokemon = WOOPER,13
+Pokemon = WOOPER,13
+Pokemon = HOPPIP,13
+Pokemon = MARILL,14
+#-------------------------------
+[YOUNGSTER,Timothy]
+LoseText = Your Pokémon’s strengths are impressive!
+Pokemon = MAREEP,10
+Pokemon = SHROOMISH,10
+Pokemon = SENTRET,10
+#-------------------------------
+[CAMPER,Clarence]
+LoseText = Ugh washed away!
+Pokemon = KRABBY,11
+Pokemon = AZURILL,11
+#-------------------------------
+[CAMPER,Clarence,1]
+LoseText = Washed away again huh?
+Pokemon = KRABBY,15
+Pokemon = MARILL,15
+Pokemon = CARVANHA,15
+#-------------------------------
+[CAMPER,Clarence,2]
+LoseText = You might even be stronger than the river!
+Pokemon = KINGLER,28
+Pokemon = AZUMARILL,27
+Pokemon = CARVANHA,28
+#-------------------------------
+[LASS,Sally]
+LoseText = You jerk!
+Pokemon = SENTRET,10
+Pokemon = SENTRET,10
+Pokemon = SNUBBULL,11
+Pokemon = MAREEP,12
+#-------------------------------
+[BUGCATCHER,Henry]
+LoseText = Maybe I should have climbed the tree.
+Pokemon = VENONAT,11
+Pokemon = SENTRET,10
+Pokemon = SURSKIT,10
+#-------------------------------
+[PICNICKER,Nina]
+LoseText = Hm. What would Bernard do?
+Pokemon = MARILL,13
+Pokemon = WOOPER,12
+#-------------------------------
+[FISHERMAN,Bernard]
+LoseText = You have the perseverance of a fisher!
+Pokemon = MAGIKARP,10
+Pokemon = MAGIKARP,10
+Pokemon = CARVANHA,10
+Pokemon = CARVANHA,10
+Pokemon = SHELLDER,12
+#-------------------------------
+[BUGCATCHER,Lester]
+LoseText = We weren’t up to snuff.
+Pokemon = PINECO,10
+Pokemon = VENONAT,12
+Pokemon = HOPPIP,12
+#-------------------------------
+[CAMPER,Craig]
+LoseText = Even in defeat\nwe are at peace.
+Pokemon = DWEBBLE,13
+Pokemon = MAREEP,13
+Pokemon = SENTRET,14
+#-------------------------------
+[BUGCATCHER,Brandon]
+LoseText = I must not have gotten psyched enough!
+Pokemon = FLETCHLING,14
+Pokemon = PINECO,13
+Pokemon = SURSKIT,14
+#-------------------------------
+[AROMALADY,Hannah]
+LoseText = We’re not ready.
+Pokemon = SEEDOT,13
+Pokemon = NUZLEAF,14
+Pokemon = WINGULL,14
+Pokemon = HOPPIP,13
+Pokemon = HOPPIP,13
+#-------------------------------
+[PICNICKER,Erin]
+LoseText = I’m glad you’re having an easier time going this way
+Pokemon = SENTRET,13
+Pokemon = FURRET,15
+#-------------------------------
+[HIKER,Garrett]
+LoseText = You’re more than ready for the trek!
+Pokemon = VENONAT,15
+Pokemon = MAKUHITA,14
+Pokemon = SNUBBULL,14
+Pokemon = MAREEP,15
+#-------------------------------
+[YOUNGSTER,Elijah]
+LoseText = My Pokémon!
+Pokemon = MARILL,15
+Pokemon = FURRET,15
+Pokemon = FLETCHLING,15
+#-------------------------------
+[POKEMONRANGER_F,Kirsten]
+LoseText = Impressive!
+Pokemon = SENTRET,12
+Pokemon = SENTRET,12
+Pokemon = HOPPIP,12
+Pokemon = FLETCHLING,12
+#-------------------------------
+[POKEMANIAC,Lee]
+LoseText = Very cool Pokémon!
+Pokemon = PICHU,12
+Pokemon = PIKACHU,12
+#-------------------------------
+[RIVAL_Ronald,Ronald,1]
+LoseText = Wow you’re taking this way too seriously.
+Pokemon = NUZLEAF,28
+    IV = 20,20,20,20,20,20
+Pokemon = FURRET,28
+    IV = 20,20,20,20,20,20
+Pokemon = ELECTABUZZ,27
+    IV = 20,20,20,20,20,20
+Pokemon = HOUNDOOM,30
+    IV = 20,20,20,20,20,20
+Pokemon = GYARADOS,28
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[PICNICKER,Kate]
+LoseText = Oh no…
+Pokemon = MAREEP,15
+Pokemon = MAREEP,15
+Pokemon = HOPPIP,15
+#-------------------------------
+[BUGCATCHER,Perry]
+LoseText = Mushrooms couldn’t help us.
+Pokemon = DWEBBLE,15
+Pokemon = DWEBBLE,15
+Pokemon = SHROOMISH,15
+#-------------------------------
+[RUINMANIAC,Anthony]
+LoseText = Did you find a mystery?\nIs that why you’re so strong?
+Pokemon = MARILL,15
+Pokemon = FLETCHLING,15
+#-------------------------------
+[HIKER,Richard]
+LoseText = Maybe we’re not so mighty.
+Pokemon = MAKUHITA,14
+Pokemon = DWEBBLE,15
+Pokemon = ARON,15
+#-------------------------------
+[BEAUTY,Haley]
+LoseText = What a shame.
+Pokemon = SNUBBULL,15
+Pokemon = SNUBBULL,15
+#-------------------------------
+[YOUNGSTER,Willis]
+LoseText = Ok maybe I can’t stop you.
+Pokemon = NUZLEAF,15
+Pokemon = VENONAT,15
+Pokemon = VENONAT,16
+Pokemon = MAKUHITA,16
+#-------------------------------
+[BUGCATCHER,Kenneth]
+LoseText = I’ll allow you to stick around I guess.
+Pokemon = VENONAT,14
+Pokemon = SURSKIT,14
+#-------------------------------
+[PICNICKER,Brianna]
+LoseText = Deep breaths Brianna. Deep breaths.
+Pokemon = MAREEP,14
+Pokemon = MARILL,15
+Pokemon = WOOPER,15
+#-------------------------------
+[HIKER,Earl]
+LoseText = Hee-hoo... hee-hoo…
+Pokemon = FLETCHLING,15
+Pokemon = WOOPER,15
+Pokemon = SNUBBULL,15
+#-------------------------------
+[BLACKBELT,Warren]
+LoseText = Enough battling back to cardio!
+Pokemon = MAKUHITA,15
+Pokemon = NUZLEAF,16
+#-------------------------------
+[RUINMANIAC,Leo]
+LoseText = Sorry I think the smell was me.
+Pokemon = HOPPIP,16
+Pokemon = DIGLETT,15
+Pokemon = SURSKIT,16
+Pokemon = DIGLETT,16
+#-------------------------------
+[CAMPER,Joe]
+LoseText = Wow! Cool Pokémon!
+Pokemon = ZUBAT,16
+Pokemon = KRABBY,16
+#-------------------------------
+[JUGGLER,Clinton]
+LoseText = I knew we needed more practice.
+Pokemon = PHANPY,12
+Pokemon = MAKUHITA,12
+#-------------------------------
+[HIKER,Jim]
+LoseText = Haha very nice!
+Pokemon = WOOPER,12
+Pokemon = PHANPY,13
+Pokemon = WOOPER,13
+#-------------------------------
+[COOLTRAINER_F,Ina]
+LoseText = Did training in the cavern make you so strong?
+Pokemon = ZUBAT,20
+Pokemon = MAKUHITA,20
+Pokemon = AZUMARILL,20
+#-------------------------------
+[BLACKBELT,Claude]
+LoseText = Hoo-ah! ... ...\nHoo-ah! ... 
+Pokemon = SHROOMISH,16
+Pokemon = MAKUHITA,16
+#-------------------------------
+[YOUNGSTER,Sid]
+LoseText = What an awakening!
+Pokemon = WYNAUT,16
+Pokemon = FLETCHLING,15
+Pokemon = HOPPIP,15
+Pokemon = WINGULL,15
+#-------------------------------
+[COOLTRAINER_M,Floyd]
+LoseText = Does this mean I have to climb back down?
+Pokemon = DIGLETT,20
+Pokemon = WOOPER,20
+Pokemon = SKIPLOOM,20

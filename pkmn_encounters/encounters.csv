@@ -1,0 +1,297 @@
+0,1,2,3,4,5
+Map Name,Terrain Tag,%,Pokemon,Min Lvl.,Max Lvl.
+Route 135,GrassMorning,30,FLETCHLING,3,4
+Route 135,GrassMorning,30,SENTRET,3,4
+Route 135,GrassMorning,20,HOPPIP,3,4
+Route 135,GrassMorning,10,AZURILL,3,4
+Route 135,GrassMorning,10,SURSKIT,4,5
+Route 135,GrassDay,35,FLETCHLING,3,4
+Route 135,GrassDay,35,SENTRET,3,4
+Route 135,GrassDay,20,HOPPIP,3,4
+Route 135,GrassDay,10,AZURILL,3,4
+Route 135,GrassNight,30,FLETCHLING,3,4
+Route 135,GrassNight,30,SENTRET,3,4
+Route 135,GrassNight,20,SEEDOT,4,5
+Route 135,GrassNight,10,AZURILL,3,4
+Route 135,GrassNight,10,VENONAT,4,5
+Route 135,TallGrassMorning,30,FLETCHLING,10,12
+Route 135,TallGrassMorning,30,SENTRET,10,12
+Route 135,TallGrassMorning,15,HOPPIP,10,12
+Route 135,TallGrassMorning,10,FURRET,15,
+Route 135,TallGrassMorning,10,SURSKIT,15,
+Route 135,TallGrassMorning,5,SKIPLOOM,15,
+Route 135,TallGrassDay,30,FLETCHLING,10,12
+Route 135,TallGrassDay,30,SENTRET,10,12
+Route 135,TallGrassDay,25,HOPPIP,10,12
+Route 135,TallGrassDay,10,FURRET,15,
+Route 135,TallGrassDay,5,SKIPLOOM,15,
+Route 135,TallGrassNight,30,FLETCHLING,10,12
+Route 135,TallGrassNight,30,SENTRET,10,12
+Route 135,TallGrassNight,15,SEEDOT,10,12
+Route 135,TallGrassNight,10,FURRET,15,
+Route 135,TallGrassNight,10,VENONAT,15,
+Route 135,TallGrassNight,5,NUZLEAF,15,
+Route 135,Water,50,WOOPER,18,25
+Route 135,Water,25,CARVANHA,18,25
+Route 135,Water,25,MARILL,18,25
+Route 135,OldRod,75,MAGIKARP,7,10
+Route 135,OldRod,25,MAGIKARP,9,15
+Route 135,GoodRod,50,CARVANHA,18,20
+Route 135,GoodRod,50,MAGIKARP,18,20
+Route 135,SuperRod,100,GYARADOS,35,40
+Parmulan Beach,GrassDay,40,SENTRET,2,3
+Parmulan Beach,GrassDay,20,FLETCHLING,2,3
+Parmulan Beach,GrassDay,20,KRABBY,2,3
+Parmulan Beach,GrassDay,20,WINGULL,2,3
+Parmulan Beach,GrassNight,40,SENTRET,2,3
+Parmulan Beach,GrassNight,20,FLETCHLING,2,3
+Parmulan Beach,GrassNight,20,DWEBBLE,2,3
+Parmulan Beach,GrassNight,20,WINGULL,2,3
+Parmulan Beach,TallGrassDay,40,KRABBY,2,3
+Parmulan Beach,TallGrassDay,20,FLETCHLING,2,3
+Parmulan Beach,TallGrassDay,20,TEPIG,5,
+Parmulan Beach,TallGrassDay,20,WINGULL,2,3
+Parmulan Beach,TallGrassMorning,40,KRABBY,2,3
+Parmulan Beach,TallGrassMorning,20,FLETCHLING,2,3
+Parmulan Beach,TallGrassMorning,20,BULBASAUR,5,
+Parmulan Beach,TallGrassMorning,20,WINGULL,2,3
+Parmulan Beach,TallGrassNight,40,KRABBY,2,3
+Parmulan Beach,TallGrassNight,20,FLETCHLING,2,3
+Parmulan Beach,TallGrassNight,20,TOTODILE,5,
+Parmulan Beach,TallGrassNight,20,WINGULL,2,3
+Parmulan Beach,Water,50,WINGULL,14,25
+Parmulan Beach,Water,40,TENTACOOL,14,25
+Parmulan Beach,Water,10,REMORAID,14,25
+Parmulan Beach,OldRod,60,MAGIKARP,7,10
+Parmulan Beach,OldRod,30,MAGIKARP,9,15
+Parmulan Beach,OldRod,10,REMORAID,7,10
+Parmulan Beach,GoodRod,50,MAGIKARP,18,20
+Parmulan Beach,GoodRod,20,KRABBY,18,20
+Parmulan Beach,GoodRod,20,SHELLDER,18,20
+Parmulan Beach,GoodRod,10,REMORAID,18,20
+Parmulan Beach,SuperRod,50,GYARADOS,35,40
+Parmulan Beach,SuperRod,40,KINGLER,35,40
+Parmulan Beach,SuperRod,10,OCTILLERY,35,40
+Parmulan Town,GrassDay,40,SENTRET,2,3
+Parmulan Town,GrassDay,20,FLETCHLING,2,3
+Parmulan Town,GrassDay,20,KRABBY,2,3
+Parmulan Town,GrassDay,20,WINGULL,2,3
+Parmulan Town,GrassNight,40,SENTRET,2,3
+Parmulan Town,GrassNight,20,FLETCHLING,2,3
+Parmulan Town,GrassNight,20,DWEBBLE,2,3
+Parmulan Town,GrassNight,20,WINGULL,2,3
+Parmulan Town,Water,50,WINGULL,14,25
+Parmulan Town,Water,40,TENTACOOL,14,25
+Parmulan Town,Water,10,REMORAID,14,25
+Parmulan Town,OldRod,60,MAGIKARP,7,10
+Parmulan Town,OldRod,30,MAGIKARP,9,15
+Parmulan Town,OldRod,10,REMORAID,7,10
+Parmulan Town,GoodRod,50,MAGIKARP,18,20
+Parmulan Town,GoodRod,20,KRABBY,18,20
+Parmulan Town,GoodRod,20,SHELLDER,18,20
+Parmulan Town,GoodRod,10,REMORAID,18,20
+Parmulan Town,SuperRod,50,GYARADOS,35,40
+Parmulan Town,SuperRod,40,KINGLER,35,40
+Parmulan Town,SuperRod,10,OCTILLERY,35,40
+Merra City,BugContest,30,PINECO,9,12
+Merra City,BugContest,30,SURSKIT,9,12
+Merra City,BugContest,30,VENONAT,9,12
+Merra City,BugContest,10,YANMA,9,12
+Merra City,TallGrassMorning,30,FLETCHLING,8,10
+Merra City,TallGrassMorning,20,PINECO,8,10
+Merra City,TallGrassMorning,20,SENTRET,8,10
+Merra City,TallGrassMorning,15,SURSKIT,8,10
+Merra City,TallGrassMorning,10,WOOPER,8,10
+Merra City,TallGrassMorning,5,YANMA,8,10
+Merra City,TallGrassDay,35,FLETCHLING,8,10
+Merra City,TallGrassDay,30,SENTRET,8,10
+Merra City,TallGrassDay,20,PINECO,8,10
+Merra City,TallGrassDay,10,WOOPER,8,10
+Merra City,TallGrassDay,5,YANMA,8,10
+Merra City,TallGrassNight,30,SENTRET,8,10
+Merra City,TallGrassNight,20,FLETCHLING,8,10
+Merra City,TallGrassNight,20,PINECO,8,10
+Merra City,TallGrassNight,15,VENONAT,8,10
+Merra City,TallGrassNight,10,WOOPER,8,10
+Merra City,TallGrassNight,5,YANMA,8,10
+Merra City,Water,50,CARVANHA,14,25
+Merra City,Water,50,WOOPER,14,25
+Merra City,OldRod,75,MAGIKARP,7,10
+Merra City,OldRod,25,MAGIKARP,9,15
+Merra City,GoodRod,50,CARVANHA,18,20
+Merra City,GoodRod,50,MAGIKARP,18,20
+Merra City,SuperRod,100,CARVANHA,35,40
+Pirtama Village,Water,50,CARVANHA,14,25
+Pirtama Village,Water,50,WOOPER,14,25
+Pirtama Village,OldRod,75,MAGIKARP,7,10
+Pirtama Village,OldRod,25,MAGIKARP,9,15
+Pirtama Village,GoodRod,50,CARVANHA,18,20
+Pirtama Village,GoodRod,50,MAGIKARP,18,20
+Pirtama Village,SuperRod,100,CARVANHA,35,40
+Pirtama Back,GrassDay,30,FLETCHLING,3,4
+Pirtama Back,GrassDay,30,SENTRET,3,4
+Pirtama Back,GrassDay,20,HOPPIP,3,4
+Pirtama Back,GrassDay,20,PICHU,3,4
+Pirtama Back,GrassNight,30,FLETCHLING,3,4
+Pirtama Back,GrassNight,30,SENTRET,3,4
+Pirtama Back,GrassNight,20,PICHU,3,4
+Pirtama Back,GrassNight,20,SEEDOT,4,5
+Pirtama Back,Water,50,CARVANHA,14,25
+Pirtama Back,Water,50,WOOPER,14,25
+Pirtama Back,OldRod,75,MAGIKARP,7,10
+Pirtama Back,OldRod,25,MAGIKARP,9,15
+Pirtama Back,GoodRod,50,CARVANHA,18,20
+Pirtama Back,GoodRod,50,MAGIKARP,18,20
+Pirtama Back,SuperRod,100,CARVANHA,35,40
+Ramay Forest Edge,GrassMorning,30,AZURILL,6,8
+Ramay Forest Edge,GrassMorning,30,FLETCHLING,5,7
+Ramay Forest Edge,GrassMorning,20,PINECO,4,5
+Ramay Forest Edge,GrassMorning,10,SHROOMISH,6,8
+Ramay Forest Edge,GrassMorning,10,SURSKIT,6,8
+Ramay Forest Edge,GrassDay,30,AZURILL,6,8
+Ramay Forest Edge,GrassDay,30,FLETCHLING,5,7
+Ramay Forest Edge,GrassDay,20,PINECO,4,5
+Ramay Forest Edge,GrassDay,20,SHROOMISH,6,8
+Ramay Forest Edge,GrassNight,30,AZURILL,6,8
+Ramay Forest Edge,GrassNight,30,FLETCHLING,5,7
+Ramay Forest Edge,GrassNight,20,SEEDOT,6,8
+Ramay Forest Edge,GrassNight,10,SHROOMISH,6,8
+Ramay Forest Edge,GrassNight,10,VENONAT,6,8
+Ramay Forest Edge,TallGrassMorning,5,SKIPLOOM,15,
+Ramay Forest Edge,TallGrassDay,5,SKIPLOOM,15,
+Ramay Forest Edge,TallGrassNight,5,NUZLEAF,15,
+Ramay Forest Edge,Water,50,WOOPER,18,25
+Ramay Forest Edge,Water,25,CARVANHA,18,25
+Ramay Forest Edge,Water,25,MARILL,18,25
+Ramay Forest Edge,OldRod,75,MAGIKARP,7,10
+Ramay Forest Edge,OldRod,25,MAGIKARP,9,15
+Ramay Forest Edge,GoodRod,50,CARVANHA,18,20
+Ramay Forest Edge,GoodRod,50,MAGIKARP,18,20
+Ramay Forest Edge,SuperRod,100,GYARADOS,35,40
+Route 136,GrassMorning,30,FLETCHLING,6,8
+Route 136,GrassMorning,20,SENTRET,6,8
+Route 136,GrassMorning,20,HOPPIP,6,8
+Route 136,GrassMorning,15,PHANPY,7,10
+Route 136,GrassMorning,15,MAREEP,7,10
+Route 136,GrassDay,30,FLETCHLING,6,8
+Route 136,GrassDay,30,SENTRET,6,8
+Route 136,GrassDay,20,HOPPIP,6,8
+Route 136,GrassDay,20,PHANPY,7,10
+Route 136,GrassNight,30,FLETCHLING,6,8
+Route 136,GrassNight,30,SENTRET,6,8
+Route 136,GrassNight,20,PHANPY,7,10
+Route 136,GrassNight,20,WOOPER,7,10
+Route 136,TallGrassMorning,30,FLETCHINDER,20,24
+Route 136,TallGrassMorning,25,FURRET,20,24
+Route 136,TallGrassMorning,20,SKIPLOOM,20,24
+Route 136,TallGrassMorning,20,PHANPY,20,24
+Route 136,TallGrassMorning,5,FLAAFFY,25,
+Route 136,TallGrassDay,30,FLETCHINDER,20,24
+Route 136,TallGrassDay,25,FURRET,20,24
+Route 136,TallGrassDay,20,SKIPLOOM,20,24
+Route 136,TallGrassDay,20,PHANPY,20,24
+Route 136,TallGrassDay,5,DONPHAN,25,
+Route 136,TallGrassNight,30,FLETCHINDER,20,24
+Route 136,TallGrassNight,25,FURRET,20,24
+Route 136,TallGrassNight,20,PHANPY,20,24
+Route 136,TallGrassNight,20,WOOPER,19,21
+Route 136,TallGrassNight,5,QUAGSIRE,25,
+Route 136,Water,50,CARVANHA,14,25
+Route 136,Water,50,WOOPER,14,25
+Route 136,OldRod,75,MAGIKARP,7,10
+Route 136,OldRod,25,MAGIKARP,9,15
+Route 136,GoodRod,50,CARVANHA,18,20
+Route 136,GoodRod,50,MAGIKARP,18,20
+Route 136,SuperRod,100,CARVANHA,35,40
+Route 136 NB,GrassMorning,30,FLETCHLING,7,10
+Route 136 NB,GrassMorning,20,SNUBBULL,7,10
+Route 136 NB,GrassMorning,15,HOPPIP,7,10
+Route 136 NB,GrassMorning,15,PHANPY,8,12
+Route 136 NB,GrassMorning,10,SENTRET,8,12
+Route 136 NB,GrassMorning,10,MAREEP,8,12
+Route 136 NB,GrassDay,30,FLETCHLING,7,10
+Route 136 NB,GrassDay,30,SNUBBULL,8,12
+Route 136 NB,GrassDay,20,HOPPIP,7,10
+Route 136 NB,GrassDay,10,SENTRET,8,12
+Route 136 NB,GrassDay,10,PHANPY,8,12
+Route 136 NB,GrassNight,30,FLETCHLING,7,10
+Route 136 NB,GrassNight,30,SNUBBULL,8,12
+Route 136 NB,GrassNight,20,PHANPY,8,12
+Route 136 NB,GrassNight,10,SENTRET,8,12
+Route 136 NB,GrassNight,10,WOOPER,8,12
+Route 136 NB,TallGrassMorning,30,FLETCHINDER,20,24
+Route 136 NB,TallGrassMorning,15,GRANBULL,20,24
+Route 136 NB,TallGrassMorning,20,SKIPLOOM,20,24
+Route 136 NB,TallGrassMorning,20,PHANPY,20,24
+Route 136 NB,TallGrassMorning,10,FURRET,20,24
+Route 136 NB,TallGrassMorning,5,FLAAFFY,25,
+Route 136 NB,TallGrassDay,30,FLETCHINDER,20,24
+Route 136 NB,TallGrassDay,15,GRANBULL,20,24
+Route 136 NB,TallGrassDay,20,SKIPLOOM,20,24
+Route 136 NB,TallGrassDay,20,PHANPY,20,24
+Route 136 NB,TallGrassDay,10,FURRET,20,24
+Route 136 NB,TallGrassDay,5,DONPHAN,25,
+Route 136 NB,TallGrassNight,30,FLETCHINDER,20,24
+Route 136 NB,TallGrassNight,15,GRANBULL,20,24
+Route 136 NB,TallGrassNight,20,PHANPY,20,24
+Route 136 NB,TallGrassNight,20,WOOPER,19,21
+Route 136 NB,TallGrassNight,10,FURRET,20,24
+Route 136 NB,TallGrassNight,5,QUAGSIRE,25,
+Route 136 NB,Water,50,CARVANHA,14,25
+Route 136 NB,Water,50,WOOPER,14,25
+Route 136 NB,OldRod,75,MAGIKARP,7,10
+Route 136 NB,OldRod,25,MAGIKARP,9,15
+Route 136 NB,GoodRod,50,CARVANHA,18,20
+Route 136 NB,GoodRod,50,MAGIKARP,18,20
+Route 136 NB,SuperRod,100,CARVANHA,35,40
+Route 136 SB,GrassMorning,30,FLETCHLING,6,8
+Route 136 SB,GrassMorning,20,HOUNDOUR,6,8
+Route 136 SB,GrassMorning,15,HOPPIP,6,8
+Route 136 SB,GrassMorning,15,PHANPY,7,10
+Route 136 SB,GrassMorning,10,SENTRET,7,10
+Route 136 SB,GrassMorning,10,MAREEP,7,10
+Route 136 SB,GrassDay,30,FLETCHLING,6,8
+Route 136 SB,GrassDay,30,HOUNDOUR,7,10
+Route 136 SB,GrassDay,20,HOPPIP,6,8
+Route 136 SB,GrassDay,10,SENTRET,7,10
+Route 136 SB,GrassDay,10,PHANPY,7,10
+Route 136 SB,GrassNight,30,FLETCHLING,6,8
+Route 136 SB,GrassNight,30,HOUNDOUR,7,10
+Route 136 SB,GrassNight,20,PHANPY,7,10
+Route 136 SB,GrassNight,10,SENTRET,7,10
+Route 136 SB,GrassNight,10,WOOPER,7,10
+Route 136 SB,TallGrassMorning,30,FLETCHINDER,20,24
+Route 136 SB,TallGrassMorning,15,HOUNDOUR,20,23
+Route 136 SB,TallGrassMorning,20,SKIPLOOM,20,24
+Route 136 SB,TallGrassMorning,20,PHANPY,20,24
+Route 136 SB,TallGrassMorning,10,FURRET,20,24
+Route 136 SB,TallGrassMorning,5,FLAAFFY,25,
+Route 136 SB,TallGrassDay,30,FLETCHINDER,20,24
+Route 136 SB,TallGrassDay,15,HOUNDOUR,20,23
+Route 136 SB,TallGrassDay,20,SKIPLOOM,20,24
+Route 136 SB,TallGrassDay,20,PHANPY,20,24
+Route 136 SB,TallGrassDay,10,FURRET,20,24
+Route 136 SB,TallGrassDay,5,DONPHAN,25,
+Route 136 SB,TallGrassNight,30,FLETCHINDER,20,24
+Route 136 SB,TallGrassNight,15,HOUNDOUR,20,23
+Route 136 SB,TallGrassNight,20,PHANPY,20,24
+Route 136 SB,TallGrassNight,20,WOOPER,19,21
+Route 136 SB,TallGrassNight,10,FURRET,20,24
+Route 136 SB,TallGrassNight,5,QUAGSIRE,25,
+Route 136 SB,Water,50,CARVANHA,14,25
+Route 136 SB,Water,50,WOOPER,14,25
+Route 136 SB,OldRod,75,MAGIKARP,7,10
+Route 136 SB,OldRod,25,MAGIKARP,9,15
+Route 136 SB,GoodRod,50,CARVANHA,18,20
+Route 136 SB,GoodRod,50,MAGIKARP,18,20
+Route 136 SB,SuperRod,100,CARVANHA,35,40
+Danu Cavern,Cave,50,ZUBAT,7,10
+Danu Cavern,Cave,20,PHANPY,7,10
+Danu Cavern,Cave,10,MAKUHITA,7,11
+Danu Cavern,Cave,10,WOOPER,7,11
+Danu Cavern,Water,75,WOOPER,18,25
+Danu Cavern,Water,25,CARVANHA,18,25
+Danu Cavern,OldRod,60,MAGIKARP,7,10
+Danu Cavern,OldRod,30,MAGIKARP,9,15
+Danu Cavern,GoodRod,100,CARVANHA,18,20
+Danu Cavern,SuperRod,100,GYARADOS,35,40
