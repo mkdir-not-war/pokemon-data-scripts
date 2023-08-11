@@ -9,7 +9,7 @@ Cells that are lists (e.g. Pokemon IVs and trainer Items) use pipes | to separat
 For example
 
 >  HYPERPOTION|HYPERPOTION|POTION
->
+
 >  20|20|0|20|0|32
 
 Anyone is free to use, copy, extend, etc with or without credit.
